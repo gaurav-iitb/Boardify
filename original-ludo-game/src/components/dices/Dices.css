@@ -1,0 +1,53 @@
+.dices {
+  position: relative;
+}
+.dice-box1 {
+  width: 100px;
+  height: 80px;
+  background-color: wheat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dice-box2 {
+  width: 100px;
+  height: 80px;
+  position: absolute;
+  top: 545px;
+  background-color: wheat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dice-box3 {
+  position: absolute;
+  width: 100px;
+  height: 80px;
+  background-color: wheat;
+  left: 725px;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dice-box4 {
+  position: absolute;
+  top: 545px;
+  left: 725px;
+  width: 100px;
+  height: 80px;
+  background-color: wheat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 69%;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 50px;
+}

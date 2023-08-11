@@ -1,0 +1,16 @@
+.main-div1 {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outer {
+  padding-top: 5vh;
+  display: flex;
+  /* padding-bottom: 15vh; */
+  margin-left: 12.15vw;
+  /* margin-left: 10vw; */
+  margin-right: 20vw;
+}
